@@ -1,0 +1,42 @@
+ <IDOCTYPE html>
+    <html lang="pt-br">
+ 
+    <head>
+ 
+        <meta charset="UTF-8">
+        <title> Negacionismo da Ciência </title>
+        <link rel="stylesheet" href="style.css">
+       
+
+    </head>
+
+ 
+    <body>
+       <img  src="negacionismo.png"; style="text-align: ;center" > 
+ 
+        <h1 style="text-align: center;"> Negacionismo da Ciência </h1>
+ 
+        <p style="text-align: center;"> <strong> O negacionismo </strong> é o ato de negar-se a acreditar em uma informação estabelecida em áreas
+            como a ciência e a história. Os negacionistas são vistos como irracionais, pois não acreditam em consensos
+            obtidos por amplo e profundo estudo e escoram suas crenças em informações falsas e teorias conspiratórias. A
+            negação do Holocausto é uma das principais manifestações negacionistas. </p>
+ 
+        <p id="missao"; style="text-align: center;"><em> O negaciosismo é um problema da pessoa negar a realidade em que vive. Ela escolhe escapar de
+                respostas que não lhe convém. E isso pode prejudicar a visão da pessoa em relação ao mundo, fazendo com
+                que ela crie fantasias imaginárias. <strong> - é baseado em fatos e evidências.</strong>.</em></p>
+ 
+        <p style="text-align: center;"> Um movimento histórico marcante, foi o Holocausto.  </p>
+
+        <p> <strong><em> Exemplo </em></strong> Em relação ao aquecimento global. De fato, existe uma desestruturação do conhecimento por parte da população, gerando um descrédito em relação ao tema, entretanto, também vemos empresas de petróleos e indústrias ajudando a disseminar contestações à ciência do clima.</p>
+
+        <p>  - É baseado em fatos e evidências.  </p>
+
+        <p> <strong> Outros Exemplo </strong></p>
+        <p> -Teorias conspiratórias </p>
+           <p>-Supressão de evidências </p>
+           <p> -Falsos especialistas </p>
+           <p> -Manipulação da informação </p>
+ 
+           
+ 
+    </html> 
